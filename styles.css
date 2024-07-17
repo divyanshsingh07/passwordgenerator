@@ -251,3 +251,9 @@ h1 {
     box-shadow: 0px 0px 25px 5px rgba(79, 134, 182, 0.8);
 }
 
+@media (max-width: 850px) {
+    .container{
+        padding: 0;
+        margin-top: 10rem;
+    }
+}
