@@ -262,8 +262,11 @@ h1 {
 @media (max-width: 850px) {
     .container {
         padding: 0;
-        margin-top: 10rem;
+        margin-top: 6rem;
         width: 100%;
+    }
+    .developer{
+        margin-left: -3.5rem;
     }
 }
 
